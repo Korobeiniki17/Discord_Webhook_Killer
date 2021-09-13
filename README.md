@@ -8,8 +8,11 @@ Eu, o criador, não sou responsável por quaisquer ações e / ou danos causados
 + Debug Mode
 
 ### Como Usar
-> 1. Configurar Tipo de Proxy no Código. proxySelect (geonode, list, all)
+> 1. Configurar Tipo de Proxy no Código e o Modo Depuração. proxySelect (geonode, list, all), debug (True, False)
+> <img src="https://i.imgur.com/yWkiShS.png">
 > 2. Configurar Webhook no Código. Webhook {id, token} (https://discord.com/api/webhooks/{id}/{token})
-> 3. Configurar o Modo Depuração no Código. debug (True, False)
-> 4. Configurar o Numero de Requisições. for(i = 0;i<1000;i++) -> Quantidade de Requisições = 1000
-> 5. Mandar Bala -> node webhook_killer.js
+> <img src="https://i.imgur.com/86JLlPq.png">
+> 3. Configurar o Numero de Requisições. for(i = 0;i<1000;i++) -> Quantidade de Requisições = 1000
+> <img src="https://i.imgur.com/ndyN2jZ.png">
+> 4. Mandar Bala -> node webhook_killer.js
+<img src="https://i.imgur.com/ffgLF68.png">
