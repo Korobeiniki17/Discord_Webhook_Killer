@@ -8,6 +8,7 @@ const fs = require("fs"); //FileSystem Lib
 const debug = false; //Switch Debug Mode
 const proxyList = ['geonode', 'list', 'all'] //Array of Proxy Method
 const proxySelect = "geonode"; //Select Your Proxy Method
+const discord = require('discord.js'); //Discord JS Lib
 
 function saveFile(file, string){
   fs.appendFileSync(file, string, function (err) {
