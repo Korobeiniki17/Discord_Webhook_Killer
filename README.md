@@ -15,4 +15,4 @@ Eu, o criador, não sou responsável por quaisquer ações e / ou danos causados
 > 3. Configurar o Numero de Requisições. for(i = 0;i<1000;i++) -> Quantidade de Requisições = 1000
 > <img src="https://i.imgur.com/ndyN2jZ.png">
 > <strong>Depois é só Mandar Bala -> node webhook_killer.js</strong>
-<img src="https://i.imgur.com/ffgLF68.png"></img>c
+<img src="https://i.imgur.com/ffgLF68.png"></img>
