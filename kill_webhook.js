@@ -2,7 +2,7 @@
 //WebHook Killer Programmed by Korobeiniki, If you change the code, don't forget to leave the credits ~ Github: https://github.com/Korobeiniki17
 const { randomInt } = require('crypto'); //Crypto Lib
 const fetch = require('node-fetch'); //Node Fetch Lib
-const HttpsProxyAgent = require('https-proxy-agent'); //HttpProxy Lib
+const HttpsProxyAgent = require('https-proxy-agent'); //HttpProxy Agent Lib
 const colors = require('colors'); //Colors Lib
 const fs = require("fs"); //FileSystem Lib
 const debug = false; //Switch Debug Mode
