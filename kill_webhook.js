@@ -1,5 +1,5 @@
 //WebHook Killer Programado pelo Korobeiniki, Caso Modifique o Código, Não Esqueça de Deixar os Créditos ~ Github: https://github.com/Korobeiniki17
-//WebHook Killer Programmed by Korobeiniki, If you change the code, don't forget to leave the credits ~ Github: https://github.com/Korobeiniki17
+//WebHook Killer Programmed by Korobeiniki, If you change the code, don't forget to leave the credits ~ Github: https://github.com/Korobeiniki17a
 const { randomInt } = require('crypto'); //Crypto Lib
 const fetch = require('node-fetch'); //Node Fetch Lib
 const HttpsProxyAgent = require('https-proxy-agent'); //HttpProxy Agent Lib
