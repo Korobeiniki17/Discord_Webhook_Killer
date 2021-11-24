@@ -16,4 +16,4 @@ Eu, o criador, não sou responsável por quaisquer ações e / ou danos causados
 > <img src="https://i.imgur.com/ndyN2jZ.png">
 > <strong>Depois é só Mandar Bala -> node webhook_killer.js</strong>
 <img src="https://i.imgur.com/ffgLF68.png"></img>
-a
+
